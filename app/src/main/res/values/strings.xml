@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesignArchitecture</string>
+    <string name="two">2</string>
+    <string name="six">6</string>
+    <string name="div">/</string>
+    <string name="multi">*</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+</resources>
